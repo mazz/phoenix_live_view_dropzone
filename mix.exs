@@ -23,7 +23,7 @@ defmodule PhoenixLiveViewDropzone.MixProject do
       {:ex_doc, "~> 0.23.0", only: :dev},
       {:jason, "~> 1.2.0", only: :test},
       {:phoenix_live_view,
-       "~> 0.11.0 or ~> 0.12.0 or ~> 0.13.0 or ~> 0.14.0 or ~> 0.15.0 or ~> 0.16.0 or ~> 0.17.0"}
+       "~> 0.11.0 or ~> 0.12.0 or ~> 0.13.0 or ~> 0.14.0 or ~> 0.15.0 or ~> 0.16.0 or ~> 0.17.0 or ~> 0.18.0 or ~> 0.19.0 or ~> 0.20.0"}
     ]
   end
 
